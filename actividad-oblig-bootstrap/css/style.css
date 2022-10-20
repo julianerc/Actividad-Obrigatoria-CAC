@@ -1,0 +1,37 @@
+.codoacodo img {
+  width: 140px;
+  height: 100px;
+}
+
+.barradeinicio {
+  background-color: rgb(156, 156, 156);
+  height: 30px;
+  text-align: right;
+}
+
+li {
+  display: inline;
+}
+.container {
+  width: 900px;
+  height: 400px;
+}
+
+.html {
+  margin-top: 10px;
+  padding-left: 40px;
+  width: 100px;
+  height: 100px;
+}
+
+.circular--square {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin: 18px;
+}
+
+.datos {
+  background-color: rgb(148, 146, 146);
+  text-align: center;
+}
